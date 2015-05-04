@@ -1,0 +1,10 @@
+F:\Remote\ChatRemote\ChatRemote\bin\Debug\ChatRemote.dll
+F:\Remote\ChatRemote\ChatRemote\bin\Debug\ChatRemote.pdb
+F:\Remote\ChatRemote\ChatRemote\obj\Debug\ChatRemote.csprojResolveAssemblyReference.cache
+F:\Remote\ChatRemote\ChatRemote\obj\Debug\ChatRemote.dll
+F:\Remote\ChatRemote\ChatRemote\obj\Debug\ChatRemote.pdb
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatRemote\ChatRemote\bin\Debug\ChatRemote.dll
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatRemote\ChatRemote\bin\Debug\ChatRemote.pdb
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatRemote\ChatRemote\obj\Debug\ChatRemote.csprojResolveAssemblyReference.cache
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatRemote\ChatRemote\obj\Debug\ChatRemote.dll
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatRemote\ChatRemote\obj\Debug\ChatRemote.pdb

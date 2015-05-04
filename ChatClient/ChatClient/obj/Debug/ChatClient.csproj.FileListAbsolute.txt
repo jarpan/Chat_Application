@@ -1,0 +1,27 @@
+F:\Remote\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+F:\Remote\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+F:\Remote\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+F:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+F:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
+F:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+F:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+F:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+F:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\Remote\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\Remote\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+D:\Remote\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+D:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+D:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
+D:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.Form1.resources
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache

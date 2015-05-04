@@ -1,0 +1,24 @@
+F:\Remote\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+F:\Remote\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+F:\Remote\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+F:\Remote\ChatServer\ChatServer\bin\Debug\ChatRemote.dll
+F:\Remote\ChatServer\ChatServer\bin\Debug\ChatRemote.pdb
+F:\Remote\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+F:\Remote\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+F:\Remote\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Remote\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Remote\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\Remote\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\Remote\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\Remote\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\Remote\ChatServer\ChatServer\bin\Debug\ChatRemote.dll
+D:\Remote\ChatServer\ChatServer\bin\Debug\ChatRemote.pdb
+D:\Remote\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatServer\ChatServer\bin\Debug\ChatRemote.dll
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatServer\ChatServer\bin\Debug\ChatRemote.pdb
+D:\dot net\C# WINDOW APPLICATION\INSTITUTE\Remote\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
